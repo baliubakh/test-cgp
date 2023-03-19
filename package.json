@@ -14,7 +14,9 @@
     "react-scripts": "5.0.1",
     "redux": "^4.2.1",
     "styled-components": "^5.3.9",
-    "typescript": "^4.4.2"
+    "typescript": "^4.4.2",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "scripts": {
     "start": "react-scripts start",
