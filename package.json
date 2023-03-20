@@ -1,20 +1,26 @@
 {
-  "homepage": "http://baliubakh.github.io/test-cgp",
+  "homepage": "https://baliubakh.github.io/test-cgp/",
   "name": "test-cgp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@mui/icons-material": "^5.11.11",
+    "@mui/material": "^5.11.13",
     "@reduxjs/toolkit": "^1.9.3",
     "@types/node": "^16.7.13",
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
+    "formik": "^2.2.9",
     "react": "^18.2.0",
+    "react-dnd": "^16.0.1",
+    "react-dnd-html5-backend": "^16.0.1",
     "react-dom": "^18.2.0",
     "react-redux": "^8.0.5",
     "react-router-dom": "^6.9.0",
     "react-scripts": "5.0.1",
     "redux": "^4.2.1",
-    "styled-components": "^5.3.9",
     "typescript": "^4.4.2"
   },
   "scripts": {
